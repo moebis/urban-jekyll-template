@@ -1,8 +1,8 @@
 ---
-name: Edition Template
-subtitle: Product documentation template for Jekyll
-external_url: https://github.com/CloudCannon/edition-jekyll-template
-image_path: /images/clients/edition.png
+name: Intelligent Fanatics
+subtitle: Standing on the Shoulders of Giants
+external_url: 'https://intelligentfanatics.com/'
+image_path: /uploads/screen-shot-2020-08-08-at-11-59-47-am.png
 ---
 
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
