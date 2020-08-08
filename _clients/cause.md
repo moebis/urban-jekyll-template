@@ -1,8 +1,8 @@
 ---
-name: Cause Template
-subtitle: Not for profit template for Jekyll
-external_url: https://github.com/CloudCannon/cause-jekyll-template
-image_path: /images/clients/cause.jpg
+name: MicroCapClub
+subtitle: The Best MicroCap Investors Online
+external_url: 'https://microcapclub.com/'
+image_path: /uploads/screen-shot-2020-08-08-at-11-56-07-am.png
 ---
 
 Not for profit themed template for Jekyll. Browse through a [live demo](https://clean-oryx.cloudvent.net/).
