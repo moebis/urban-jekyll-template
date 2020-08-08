@@ -9,7 +9,7 @@ disqus_shortname: moebis
 description: all things curious...
 
 # Author details for the jekyll-seo-tag gem
-author: Carl Moebis
+author:
   name:
   email: moebis@me.com
   twitter: moebis # twitter username without the @ symbol
