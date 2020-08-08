@@ -1,18 +1,18 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: moebis
+url: "https://moebis.com"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-142698-5
 google_maps_javascript_api_key:
-disqus_shortname:
+disqus_shortname: moebis
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: all things curious...
 
 # Author details for the jekyll-seo-tag gem
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+author: Carl Moebis
+  name: Carl Moebis
+  email: moebis@me.com
+  twitter: moebis # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
